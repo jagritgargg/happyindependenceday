@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+}
+
+
+#flag{
+    width: 1350px;
+    height: 440px;
+}
+
+
+h1{
+    color: orange;
+}
+
+h2{
+    color: darkblue;
+    font-size: 40px;
+}
+
+h3{
+    font-size: 38px;
+    color: darkorange;
+    text-align: center;
+}
